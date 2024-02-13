@@ -29,7 +29,9 @@ p.bold{font-weight:700}
 a {color:white;text-decoration: none;transition: all 0.3s ease-in-out;&:hover, &:focus, &:active {color: #f1e8d9;}}
 #hsatu{transition: all .3s ease}
 #judulakhir{z-index:100;font-size:24px;font-family:var(--gaya-font3);transition:all .5s ease}
-#teksnimasi, #kalimatakhir, #palingakhir{z-index:100;margin-right:auto;margin-left:auto;font-size:14px;font-family:var(--gaya-font2);}
+#teksnimasi, #teksnimasi1, #kalimatakhir, #palingakhir{z-index:100;margin-right:auto;margin-left:auto;font-size:14px;font-family:var(--gaya-font2);}
+#teksnimasi1{text-align:left;margin-left:70px;margin-right:70px;}
+.tipeA{font-family:var(--gaya-font);}
 #teksnimasi{text-align:left;margin-left:70px;margin-right:70px;}
 .tipeA{font-family:var(--gaya-font);}
 
