@@ -99,6 +99,7 @@ function teksmuncul(){
 	setTimeout(gantifotoakhir,400);
 }
 function jjteksnim(){judulakhir.style.animation="rto .8s infinite alternate";}
+function jjteksnim1(){judulakhir.style.animation="rto .8s infinite alternate";}
 function gantifotoakhir(){stikerakhir.src=stikerakhir2.src;stikerakhir.style="";}
 function kataakhir(){
 	  new TypeIt("#palingakhir", {
