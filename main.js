@@ -25,7 +25,7 @@ element.appendChild(watermark);
 //////////////////////////////////////////////////
 
 initeksnimasi1 = teksnimasi1.innerHTML;teksnimasi1.innerHTML="";
-function katateksnimasi(){
+function katateksnimasi1(){
   	new TypeIt("#teksnimasi1", {
       strings: ["" + initeksnimasi1], startDelay: 50, speed: 55, cursor: true,
       afterComplete: function(){
