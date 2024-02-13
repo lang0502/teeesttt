@@ -56,6 +56,7 @@ function tes(){
     if(skrg<=2){setTimeout(smn,700);}
     if(skrg==3){setTimeout(katateksnimasi,500);}
     if(skrg==4){setTimeout(muncultombol,1200);}
+    if(skrg==5){setTimeout(katateksnimasi1,500);}
   }
 }
   function smn(){fungsi=0;initom.style="";}
